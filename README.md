@@ -8,7 +8,7 @@ Played on a board that is typically three by three squares, Tic Tac Toe is a wel
 
 A variety of agents are desirable to employ, such as the Q-learning algorithm for reinforcement learning and the Alpha-Beta and Min-Max algorithms for adversarial search. By considering several parameters such the number of movements, node exploration, and the total time needed to complete the game, each agent aims to make the best choices possible.
 
-<img width="600" alt="ai py" src="https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/37abe2b1-7de7-4cb0-8897-f409f359cf83">
+<img width="450" alt="ai py" src="https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/37abe2b1-7de7-4cb0-8897-f409f359cf83">
 
 
 # Objectives
