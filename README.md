@@ -34,6 +34,7 @@ Python 3 is the main component of the technology stack that these techniques rel
 
 ---
 Q-Learning is a well-liked reinforcement learning method based on the Bellman Equation. To maximize incentives, the agent tries to figure out which rules lead to the best actions. Based on previous experiences, these are the best course of action. Raising the performance level, or value of "Q," is the agent's goal at every step.
+
 ---
 
 # Reinforcement Learing
