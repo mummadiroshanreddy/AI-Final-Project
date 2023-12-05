@@ -37,6 +37,8 @@ c. The game tree is navigated using recursion.
 d. Often used in two-player board games such as chess and tic tac toe.
 
 e. Using Depth-First Search, our algorithm investigates the entire game until it reaches the terminal node, at which point it changes directions.
+<img width="381" alt="image" src="https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/c30cda74-0e86-4e31-ad3a-5c82d33d504b">
+
 # Alpha-Beta
 Reducing the overall number of nodes in the search tree produced by the min-max algorithm is the main objective of alpha-beta pruning. This method is commonly used in two-player games that make use of adversarial search techniques. When applied to a min-max tree, it produces the same moves as min-max but skillfully eliminates branches that are not important in deciding the ultimate result.
 # Deliverables
