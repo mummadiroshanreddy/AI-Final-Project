@@ -10,42 +10,50 @@ A variety of agents are desirable to employ, such as the Q-learning algorithm fo
 
 # Objectives
 
-Make agents for both adversarial search and reinforcement learning in order to play the game Tic Tac Toe.
+a.Make agents for both adversarial search and reinforcement learning in order to play the game Tic Tac Toe.
 
-Utilizing the Min-Max Algorithm, Q-learning, and Alpha-Beta Pruning methods, create three unique AI agents.
+b.Utilizing the Min-Max Algorithm, Q-learning, and Alpha-Beta Pruning methods, create three unique AI agents.
 
-Play several games of Tic Tac Toe with these agents to test the performance of each algorithm.
+c.Play several games of Tic Tac Toe with these agents to test the performance of each algorithm.
 
-In the game, players receive points for placing three consecutive symbols in a row, column, or diagonal.
+d.In the game, players receive points for placing three consecutive symbols in a row, column, or diagonal.
 
-Determine pertinent measures to assess the three algorithms' respective performance. Determine which method—adversarial searching or reinforcement learning—is more successful.
+e.Determine pertinent measures to assess the three algorithms' respective performance. Determine which method—adversarial searching or reinforcement learning—is more successful.
 
 # Approaches
 
-Our initial tactic in the field of reinforcement learning is to use Q-Learning.
-
-As a backup strategy, we also chose Adversarial Search, which combines the Min-Max Algorithm with Alpha-Beta Pruning.
-
+Our initial tactic in the field of reinforcement learning is to use 
+```
+1.Q-Learning.
+```
+As a backup strategy, we also chose Adversarial Search, which combines the two methods 
+```
+1.Min-Max Algorithm  
+2.Alpha-Beta Pruning.
+```
 Python 3 is the main component of the technology stack that these techniques rely on.
 
 # Brief Description of Agents
 
 # Q-Learning
 
----
+```
 Q-Learning is a well-liked reinforcement learning method based on the Bellman Equation. To maximize incentives, the agent tries to figure out which rules lead to the best actions. Based on previous experiences, these are the best course of action. Raising the performance level, or value of "Q," is the agent's goal at every step.
-
----
+```
 
 # Reinforcement Learing
 
-Reinforcement learning is a machine learning technique that allows an agent to learn through experimentation in a group setting. By analyzing its own behaviors and interactions in the provided environment, the agent learns new information.
+```
+Reinforcement learning is a machine learning technique that allows an agent to learn through experimentation in a group setting.
+By analyzing its own behaviors and interactions in the provided environment, the agent learns new information.
+
+```
 
 <img width="500" alt="image" src="https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/5ae7858b-a421-45d6-bd09-5f8f613c1099">
 
 # Min-Max Algorithm
 
-This algorithm is used in decision-making and game theory. It makes use of recursion and backtracking.
+a. This algorithm is used in decision-making and game theory. It makes use of recursion and backtracking.
 
 b. It ascertains the player's best course of action by presuming that the other player is also choosing wisely.
 
