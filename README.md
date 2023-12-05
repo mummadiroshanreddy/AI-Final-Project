@@ -10,15 +10,15 @@ A variety of agents are desirable to employ, such as the Q-learning algorithm fo
 
 # Objectives
 
-a.Make agents for both adversarial search and reinforcement learning in order to play the game Tic Tac Toe.
+a. Make agents for both adversarial search and reinforcement learning in order to play the game Tic Tac Toe.
 
-b.Utilizing the Min-Max Algorithm, Q-learning, and Alpha-Beta Pruning methods, create three unique AI agents.
+b. Utilizing the Min-Max Algorithm, Q-learning, and Alpha-Beta Pruning methods, create three unique AI agents.
 
-c.Play several games of Tic Tac Toe with these agents to test the performance of each algorithm.
+c. Play several games of Tic Tac Toe with these agents to test the performance of each algorithm.
 
-d.In the game, players receive points for placing three consecutive symbols in a row, column, or diagonal.
+d. In the game, players receive points for placing three consecutive symbols in a row, column, or diagonal.
 
-e.Determine pertinent measures to assess the three algorithms' respective performance. Determine which method—adversarial searching or reinforcement learning—is more successful.
+e. Determine pertinent measures to assess the three algorithms' respective performance. Determine which method—adversarial searching or reinforcement learning—is more successful.
 
 # Approaches
 
