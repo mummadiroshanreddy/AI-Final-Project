@@ -33,8 +33,6 @@ As a backup strategy, we also chose Adversarial Search, which combines the two m
 ```
 Python 3 is the main component of the technology stack that these techniques rely on.
 
-![py3](https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/e93245b3-879e-4c9f-9b40-ea5a5164cc44)
-
 
 # Brief Description of Agents
 
