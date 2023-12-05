@@ -1,6 +1,7 @@
 # Tic Tac Toe Implementation using Multi Agents
 # Introduction
 Played on a board that is typically three by three squares, Tic Tac Toe is a well-liked and captivating game for two players. Players take turns inserting their symbols (usually 'X' and 'O') into empty squares to build a line of three symbols either horizontally, vertically, or diagonally. The goal is to finish a line before anyone else does. Because of its straightforward rules and strategic alternatives, Tic Tac Toe is a quick and enjoyable game for players of all ages.
+<img width="329" alt="Screenshot 2023-12-05 135141" src="https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/56186004-b0cb-4c32-9572-f7ec381f24fd">
 # Implementation
 A variety of agents are desirable to employ, such as the Q-learning algorithm for reinforcement learning and the Alpha-Beta and Min-Max algorithms for adversarial search. By considering several parameters such the number of movements, node exploration, and the total time needed to complete the game, each agent aims to make the best choices possible.
 # Objectives
