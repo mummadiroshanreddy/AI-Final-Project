@@ -24,6 +24,7 @@ Python 3 is the main component of the technology stack that these techniques rel
 # Brief Description of Agents
 # Q-Learning
 Q-Learning is a well-liked reinforcement learning method based on the Bellman Equation. To maximize incentives, the agent tries to figure out which rules lead to the best actions. Based on previous experiences, these are the best course of action. Raising the performance level, or value of "Q," is the agent's goal at every step.
+<img width="482" alt="image" src="https://github.com/mummadiroshanreddy/AI-Final-Project/assets/129618586/5ae7858b-a421-45d6-bd09-5f8f613c1099">
 
 # Reinforcement Learing
 Reinforcement learning is a machine learning technique that allows an agent to learn through experimentation in a group setting. By analyzing its own behaviors and interactions in the provided environment, the agent learns new information.
